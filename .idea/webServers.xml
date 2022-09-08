@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="cc75292d-d7a8-4d1a-be70-a29044644e24" name="Profservice">
+        <fileTransfer rootFolder="/home/admin/web/supply.profservice-kaluga.ru/public_html" accessType="SFTP" host="2.59.41.172" port="22" sshConfigId="73c287a4-08fc-493b-8d93-d460fc57da40" sshConfig="root@2.59.41.172:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

@@ -1,8 +1,0 @@
-/system/storage/modification/*
-!/upload/system/storage/modification/index.html
-/system/storage/upload/*
-/system/storage/cache/*
-/system/storage/download/*
-/system/storage/logs/*
-/config.php
-/admin/config.php
